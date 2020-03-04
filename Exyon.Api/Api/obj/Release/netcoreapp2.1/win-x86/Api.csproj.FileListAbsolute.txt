@@ -1,0 +1,15 @@
+C:\Projects\Criatti\Criatti.Api\Api\Api\bin\Release\netcoreapp2.1\win-x86\Api.exe
+C:\Projects\Criatti\Criatti.Api\Api\Api\bin\Release\netcoreapp2.1\win-x86\Api.deps.json
+C:\Projects\Criatti\Criatti.Api\Api\Api\bin\Release\netcoreapp2.1\win-x86\Api.runtimeconfig.json
+C:\Projects\Criatti\Criatti.Api\Api\Api\bin\Release\netcoreapp2.1\win-x86\Api.runtimeconfig.dev.json
+C:\Projects\Criatti\Criatti.Api\Api\Api\bin\Release\netcoreapp2.1\win-x86\Api.dll
+C:\Projects\Criatti\Criatti.Api\Api\Api\bin\Release\netcoreapp2.1\win-x86\Api.pdb
+C:\Projects\Criatti\Criatti.Api\Api\Api\obj\Release\netcoreapp2.1\win-x86\Api.csprojAssemblyReference.cache
+C:\Projects\Criatti\Criatti.Api\Api\Api\obj\Release\netcoreapp2.1\win-x86\Api.csproj.CoreCompileInputs.cache
+C:\Projects\Criatti\Criatti.Api\Api\Api\obj\Release\netcoreapp2.1\win-x86\Api.RazorAssemblyInfo.cache
+C:\Projects\Criatti\Criatti.Api\Api\Api\obj\Release\netcoreapp2.1\win-x86\Api.RazorAssemblyInfo.cs
+C:\Projects\Criatti\Criatti.Api\Api\Api\obj\Release\netcoreapp2.1\win-x86\Api.AssemblyInfoInputs.cache
+C:\Projects\Criatti\Criatti.Api\Api\Api\obj\Release\netcoreapp2.1\win-x86\Api.AssemblyInfo.cs
+C:\Projects\Criatti\Criatti.Api\Api\Api\obj\Release\netcoreapp2.1\win-x86\Api.RazorTargetAssemblyInfo.cache
+C:\Projects\Criatti\Criatti.Api\Api\Api\obj\Release\netcoreapp2.1\win-x86\Api.dll
+C:\Projects\Criatti\Criatti.Api\Api\Api\obj\Release\netcoreapp2.1\win-x86\Api.pdb

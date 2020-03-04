@@ -1,0 +1,12 @@
+
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Launch Chrome against localhost",
+            "url": "http://pje.trt15.jus.br:80",
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}

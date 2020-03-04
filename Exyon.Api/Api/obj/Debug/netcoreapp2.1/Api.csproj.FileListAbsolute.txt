@@ -1,0 +1,443 @@
+C:\Projects\Criatti\Criatti.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.csprojAssemblyReference.cache
+C:\Projects\Criatti\Criatti.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.csproj.CoreCompileInputs.cache
+C:\Projects\Criatti\Criatti.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cache
+C:\Projects\Criatti\Criatti.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cs
+C:\Projects\Criatti\Criatti.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfoInputs.cache
+C:\Projects\Criatti\Criatti.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfo.cs
+C:\Projects\Criatti\Criatti.Api\Api\Api\bin\Debug\netcoreapp2.1\grpc_csharp_ext.x86.dll
+C:\Projects\Criatti\Criatti.Api\Api\Api\bin\Debug\netcoreapp2.1\grpc_csharp_ext.x64.dll
+C:\Projects\Criatti\Criatti.Api\Api\Api\bin\Debug\netcoreapp2.1\libgrpc_csharp_ext.x86.so
+C:\Projects\Criatti\Criatti.Api\Api\Api\bin\Debug\netcoreapp2.1\libgrpc_csharp_ext.x64.so
+C:\Projects\Criatti\Criatti.Api\Api\Api\bin\Debug\netcoreapp2.1\libgrpc_csharp_ext.x86.dylib
+C:\Projects\Criatti\Criatti.Api\Api\Api\bin\Debug\netcoreapp2.1\libgrpc_csharp_ext.x64.dylib
+C:\Projects\Criatti\Criatti.Api\Api\Api\bin\Debug\netcoreapp2.1\Microsoft.CognitiveServices.Speech.core.dll
+C:\Projects\Criatti\Criatti.Api\Api\Api\bin\Debug\netcoreapp2.1\Microsoft.CognitiveServices.Speech.csharp.bindings.dll
+C:\Projects\Criatti\Criatti.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.deps.json
+C:\Projects\Criatti\Criatti.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.json
+C:\Projects\Criatti\Criatti.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.dev.json
+C:\Projects\Criatti\Criatti.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.dll
+C:\Projects\Criatti\Criatti.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.pdb
+C:\Projects\Criatti\Criatti.Api\Api\Api\bin\Debug\netcoreapp2.1\Microsoft.Speech.dll
+C:\Projects\Criatti\Criatti.Api\Api\Api\bin\Debug\netcoreapp2.1\Ura.exe
+C:\Projects\Criatti\Criatti.Api\Api\Api\bin\Debug\netcoreapp2.1\Tiny.RestClient.dll
+C:\Projects\Criatti\Criatti.Api\Api\Api\bin\Debug\netcoreapp2.1\Ura.pdb
+C:\Projects\Criatti\Criatti.Api\Api\Api\bin\Debug\netcoreapp2.1\Ura.exe.config
+C:\Projects\Criatti\Criatti.Api\Api\Api\bin\Debug\netcoreapp2.1\Tiny.RestClient.pdb
+C:\Projects\Criatti\Criatti.Api\Api\Api\bin\Debug\netcoreapp2.1\Tiny.RestClient.xml
+C:\Projects\Criatti\Criatti.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorTargetAssemblyInfo.cache
+C:\Projects\Criatti\Criatti.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.csproj.CopyComplete
+C:\Projects\Criatti\Criatti.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.dll
+C:\Projects\Criatti\Criatti.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.pdb
+C:\Projects\Correcta\Correcta.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.deps.json
+C:\Projects\Correcta\Correcta.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.json
+C:\Projects\Correcta\Correcta.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.dev.json
+C:\Projects\Correcta\Correcta.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.dll
+C:\Projects\Correcta\Correcta.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.pdb
+C:\Projects\Correcta\Correcta.Api\Api\Api\bin\Debug\netcoreapp2.1\Microsoft.Speech.dll
+C:\Projects\Correcta\Correcta.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.csproj.CoreCompileInputs.cache
+C:\Projects\Correcta\Correcta.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cache
+C:\Projects\Correcta\Correcta.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cs
+C:\Projects\Correcta\Correcta.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfoInputs.cache
+C:\Projects\Correcta\Correcta.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfo.cs
+C:\Projects\Correcta\Correcta.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorTargetAssemblyInfo.cache
+C:\Projects\Correcta\Correcta.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.csproj.CopyComplete
+C:\Projects\Correcta\Correcta.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.dll
+C:\Projects\Correcta\Correcta.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.pdb
+C:\Projects\Correcta\Correcta.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.csprojAssemblyReference.cache
+C:\Projects\GRC\Grc.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.deps.json
+C:\Projects\GRC\Grc.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.json
+C:\Projects\GRC\Grc.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.dev.json
+C:\Projects\GRC\Grc.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.dll
+C:\Projects\GRC\Grc.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.pdb
+C:\Projects\GRC\Grc.Api\Api\Api\bin\Debug\netcoreapp2.1\Microsoft.Speech.dll
+C:\Projects\GRC\Grc.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.csprojAssemblyReference.cache
+C:\Projects\GRC\Grc.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.csproj.CoreCompileInputs.cache
+C:\Projects\GRC\Grc.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cache
+C:\Projects\GRC\Grc.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cs
+C:\Projects\GRC\Grc.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfoInputs.cache
+C:\Projects\GRC\Grc.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfo.cs
+C:\Projects\GRC\Grc.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorTargetAssemblyInfo.cache
+C:\Projects\GRC\Grc.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.csproj.CopyComplete
+C:\Projects\GRC\Grc.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.dll
+C:\Projects\GRC\Grc.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.pdb
+C:\Projects\GrcExyon\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.deps.json
+C:\Projects\GrcExyon\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.json
+C:\Projects\GrcExyon\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.dev.json
+C:\Projects\GrcExyon\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.dll
+C:\Projects\GrcExyon\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.pdb
+C:\Projects\GrcExyon\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.Views.dll
+C:\Projects\GrcExyon\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.Views.pdb
+C:\Projects\GrcExyon\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.csproj.CoreCompileInputs.cache
+C:\Projects\GrcExyon\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cache
+C:\Projects\GrcExyon\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cs
+C:\Projects\GrcExyon\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfoInputs.cache
+C:\Projects\GrcExyon\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfo.cs
+C:\Projects\GrcExyon\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.TagHelpers.input.cache
+C:\Projects\GrcExyon\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.TagHelpers.output.cache
+C:\Projects\GrcExyon\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorCoreGenerate.cache
+C:\Projects\GrcExyon\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Razor\Views\Home\Login.g.cshtml.cs
+C:\Projects\GrcExyon\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Razor\Views\Home\Register.g.cshtml.cs
+C:\Projects\GrcExyon\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorTargetAssemblyInfo.cache
+C:\Projects\GrcExyon\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorTargetAssemblyInfo.cs
+C:\Projects\GrcExyon\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.Views.pdb
+C:\Projects\GrcExyon\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.dll
+C:\Projects\GrcExyon\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.pdb
+C:\Projects\GrcExyon\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.csproj.CopyComplete
+C:\Projects\GrcExyon\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.csprojAssemblyReference.cache
+C:\Projetos\Exyon\Api\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.deps.json
+C:\Projetos\Exyon\Api\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.json
+C:\Projetos\Exyon\Api\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.dev.json
+C:\Projetos\Exyon\Api\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.dll
+C:\Projetos\Exyon\Api\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.pdb
+C:\Projetos\Exyon\Api\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.Views.dll
+C:\Projetos\Exyon\Api\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.Views.pdb
+C:\Projetos\Exyon\Api\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.csprojAssemblyReference.cache
+C:\Projetos\Exyon\Api\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.csproj.CoreCompileInputs.cache
+C:\Projetos\Exyon\Api\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cache
+C:\Projetos\Exyon\Api\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cs
+C:\Projetos\Exyon\Api\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfoInputs.cache
+C:\Projetos\Exyon\Api\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfo.cs
+C:\Projetos\Exyon\Api\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.TagHelpers.input.cache
+C:\Projetos\Exyon\Api\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.TagHelpers.output.cache
+C:\Projetos\Exyon\Api\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorCoreGenerate.cache
+C:\Projetos\Exyon\Api\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Razor\Views\Home\Login.g.cshtml.cs
+C:\Projetos\Exyon\Api\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Razor\Views\Home\Register.g.cshtml.cs
+C:\Projetos\Exyon\Api\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorTargetAssemblyInfo.cache
+C:\Projetos\Exyon\Api\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorTargetAssemblyInfo.cs
+C:\Projetos\Exyon\Api\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.Views.pdb
+C:\Projetos\Exyon\Api\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.dll
+C:\Projetos\Exyon\Api\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.pdb
+C:\Projetos\Exyon\Api\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.csproj.CopyComplete
+C:\Users\marcelo.moraes\gitlab.exyon\grc-suite\src\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.deps.json
+C:\Users\marcelo.moraes\gitlab.exyon\grc-suite\src\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.json
+C:\Users\marcelo.moraes\gitlab.exyon\grc-suite\src\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.dev.json
+C:\Users\marcelo.moraes\gitlab.exyon\grc-suite\src\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.dll
+C:\Users\marcelo.moraes\gitlab.exyon\grc-suite\src\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.pdb
+C:\Users\marcelo.moraes\gitlab.exyon\grc-suite\src\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.Views.dll
+C:\Users\marcelo.moraes\gitlab.exyon\grc-suite\src\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.Views.pdb
+C:\Users\marcelo.moraes\gitlab.exyon\grc-suite\src\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.csproj.CoreCompileInputs.cache
+C:\Users\marcelo.moraes\gitlab.exyon\grc-suite\src\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cache
+C:\Users\marcelo.moraes\gitlab.exyon\grc-suite\src\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cs
+C:\Users\marcelo.moraes\gitlab.exyon\grc-suite\src\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfoInputs.cache
+C:\Users\marcelo.moraes\gitlab.exyon\grc-suite\src\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfo.cs
+C:\Users\marcelo.moraes\gitlab.exyon\grc-suite\src\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.TagHelpers.input.cache
+C:\Users\marcelo.moraes\gitlab.exyon\grc-suite\src\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.TagHelpers.output.cache
+C:\Users\marcelo.moraes\gitlab.exyon\grc-suite\src\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorCoreGenerate.cache
+C:\Users\marcelo.moraes\gitlab.exyon\grc-suite\src\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Razor\Views\Home\Login.g.cshtml.cs
+C:\Users\marcelo.moraes\gitlab.exyon\grc-suite\src\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Razor\Views\Home\Register.g.cshtml.cs
+C:\Users\marcelo.moraes\gitlab.exyon\grc-suite\src\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorTargetAssemblyInfo.cache
+C:\Users\marcelo.moraes\gitlab.exyon\grc-suite\src\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorTargetAssemblyInfo.cs
+C:\Users\marcelo.moraes\gitlab.exyon\grc-suite\src\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.Views.pdb
+C:\Users\marcelo.moraes\gitlab.exyon\grc-suite\src\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.dll
+C:\Users\marcelo.moraes\gitlab.exyon\grc-suite\src\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.pdb
+C:\Users\marcelo.moraes\gitlab.exyon\grc-suite\src\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.csproj.CopyComplete
+C:\Users\marcio.lobianco\gitlab_exyon\grc-suite\src\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.deps.json
+C:\Users\marcio.lobianco\gitlab_exyon\grc-suite\src\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.json
+C:\Users\marcio.lobianco\gitlab_exyon\grc-suite\src\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.dev.json
+C:\Users\marcio.lobianco\gitlab_exyon\grc-suite\src\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.dll
+C:\Users\marcio.lobianco\gitlab_exyon\grc-suite\src\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.pdb
+C:\Users\marcio.lobianco\gitlab_exyon\grc-suite\src\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.Views.dll
+C:\Users\marcio.lobianco\gitlab_exyon\grc-suite\src\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.Views.pdb
+C:\Users\marcio.lobianco\gitlab_exyon\grc-suite\src\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.csproj.CoreCompileInputs.cache
+C:\Users\marcio.lobianco\gitlab_exyon\grc-suite\src\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cache
+C:\Users\marcio.lobianco\gitlab_exyon\grc-suite\src\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cs
+C:\Users\marcio.lobianco\gitlab_exyon\grc-suite\src\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfoInputs.cache
+C:\Users\marcio.lobianco\gitlab_exyon\grc-suite\src\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfo.cs
+C:\Users\marcio.lobianco\gitlab_exyon\grc-suite\src\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.TagHelpers.input.cache
+C:\Users\marcio.lobianco\gitlab_exyon\grc-suite\src\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.TagHelpers.output.cache
+C:\Users\marcio.lobianco\gitlab_exyon\grc-suite\src\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorCoreGenerate.cache
+C:\Users\marcio.lobianco\gitlab_exyon\grc-suite\src\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Razor\Views\Home\Login.g.cshtml.cs
+C:\Users\marcio.lobianco\gitlab_exyon\grc-suite\src\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Razor\Views\Home\Register.g.cshtml.cs
+C:\Users\marcio.lobianco\gitlab_exyon\grc-suite\src\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorTargetAssemblyInfo.cache
+C:\Users\marcio.lobianco\gitlab_exyon\grc-suite\src\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorTargetAssemblyInfo.cs
+C:\Users\marcio.lobianco\gitlab_exyon\grc-suite\src\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.Views.pdb
+C:\Users\marcio.lobianco\gitlab_exyon\grc-suite\src\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.dll
+C:\Users\marcio.lobianco\gitlab_exyon\grc-suite\src\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.pdb
+C:\Users\marcio.lobianco\gitlab_exyon\grc-suite\src\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.csproj.CopyComplete
+C:\Projetos\Api-Git\Api\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.deps.json
+C:\Projetos\Api-Git\Api\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.json
+C:\Projetos\Api-Git\Api\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.dev.json
+C:\Projetos\Api-Git\Api\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.dll
+C:\Projetos\Api-Git\Api\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.pdb
+C:\Projetos\Api-Git\Api\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.Views.dll
+C:\Projetos\Api-Git\Api\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.Views.pdb
+C:\Projetos\Api-Git\Api\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.csproj.CoreCompileInputs.cache
+C:\Projetos\Api-Git\Api\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cache
+C:\Projetos\Api-Git\Api\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cs
+C:\Projetos\Api-Git\Api\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfoInputs.cache
+C:\Projetos\Api-Git\Api\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfo.cs
+C:\Projetos\Api-Git\Api\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.TagHelpers.input.cache
+C:\Projetos\Api-Git\Api\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.TagHelpers.output.cache
+C:\Projetos\Api-Git\Api\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorCoreGenerate.cache
+C:\Projetos\Api-Git\Api\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Razor\Views\Home\Login.g.cshtml.cs
+C:\Projetos\Api-Git\Api\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Razor\Views\Home\Register.g.cshtml.cs
+C:\Projetos\Api-Git\Api\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorTargetAssemblyInfo.cache
+C:\Projetos\Api-Git\Api\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorTargetAssemblyInfo.cs
+C:\Projetos\Api-Git\Api\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.Views.pdb
+C:\Projetos\Api-Git\Api\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.dll
+C:\Projetos\Api-Git\Api\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.pdb
+C:\Projetos\Api-Git\Api\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.csproj.CopyComplete
+C:\Projetos\Api-Git\Api\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.csprojAssemblyReference.cache
+C:\Projects\GrcExyon\Api\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.deps.json
+C:\Projects\GrcExyon\Api\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.json
+C:\Projects\GrcExyon\Api\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.dev.json
+C:\Projects\GrcExyon\Api\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.dll
+C:\Projects\GrcExyon\Api\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.pdb
+C:\Projects\GrcExyon\Api\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.Views.dll
+C:\Projects\GrcExyon\Api\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.Views.pdb
+C:\Projects\GrcExyon\Api\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.csprojAssemblyReference.cache
+C:\Projects\GrcExyon\Api\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.csproj.CoreCompileInputs.cache
+C:\Projects\GrcExyon\Api\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cache
+C:\Projects\GrcExyon\Api\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cs
+C:\Projects\GrcExyon\Api\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfoInputs.cache
+C:\Projects\GrcExyon\Api\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfo.cs
+C:\Projects\GrcExyon\Api\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.TagHelpers.input.cache
+C:\Projects\GrcExyon\Api\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.TagHelpers.output.cache
+C:\Projects\GrcExyon\Api\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorCoreGenerate.cache
+C:\Projects\GrcExyon\Api\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Razor\Views\Home\Login.g.cshtml.cs
+C:\Projects\GrcExyon\Api\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Razor\Views\Home\Register.g.cshtml.cs
+C:\Projects\GrcExyon\Api\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorTargetAssemblyInfo.cache
+C:\Projects\GrcExyon\Api\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorTargetAssemblyInfo.cs
+C:\Projects\GrcExyon\Api\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.Views.pdb
+C:\Projects\GrcExyon\Api\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.dll
+C:\Projects\GrcExyon\Api\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.pdb
+C:\Projects\GrcExyon\Api\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.csproj.CopyComplete
+C:\Projetos\Exyon\GestaoRisco\src\Exyon.Api\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.deps.json
+C:\Projetos\Exyon\GestaoRisco\src\Exyon.Api\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.json
+C:\Projetos\Exyon\GestaoRisco\src\Exyon.Api\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.dev.json
+C:\Projetos\Exyon\GestaoRisco\src\Exyon.Api\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.dll
+C:\Projetos\Exyon\GestaoRisco\src\Exyon.Api\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.pdb
+C:\Projetos\Exyon\GestaoRisco\src\Exyon.Api\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.Views.dll
+C:\Projetos\Exyon\GestaoRisco\src\Exyon.Api\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.Views.pdb
+C:\Projetos\Exyon\GestaoRisco\src\Exyon.Api\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.csproj.CoreCompileInputs.cache
+C:\Projetos\Exyon\GestaoRisco\src\Exyon.Api\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cache
+C:\Projetos\Exyon\GestaoRisco\src\Exyon.Api\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cs
+C:\Projetos\Exyon\GestaoRisco\src\Exyon.Api\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfoInputs.cache
+C:\Projetos\Exyon\GestaoRisco\src\Exyon.Api\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfo.cs
+C:\Projetos\Exyon\GestaoRisco\src\Exyon.Api\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.TagHelpers.input.cache
+C:\Projetos\Exyon\GestaoRisco\src\Exyon.Api\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.TagHelpers.output.cache
+C:\Projetos\Exyon\GestaoRisco\src\Exyon.Api\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorCoreGenerate.cache
+C:\Projetos\Exyon\GestaoRisco\src\Exyon.Api\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Razor\Views\Home\Login.g.cshtml.cs
+C:\Projetos\Exyon\GestaoRisco\src\Exyon.Api\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Razor\Views\Home\Register.g.cshtml.cs
+C:\Projetos\Exyon\GestaoRisco\src\Exyon.Api\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorTargetAssemblyInfo.cache
+C:\Projetos\Exyon\GestaoRisco\src\Exyon.Api\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorTargetAssemblyInfo.cs
+C:\Projetos\Exyon\GestaoRisco\src\Exyon.Api\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.Views.pdb
+C:\Projetos\Exyon\GestaoRisco\src\Exyon.Api\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.dll
+C:\Projetos\Exyon\GestaoRisco\src\Exyon.Api\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.pdb
+C:\Projetos\Exyon\GestaoRisco\src\Exyon.Api\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.csproj.CopyComplete
+C:\Projetos\Exyon\GestaoRisco\src\Exyon.Api\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.csprojAssemblyReference.cache
+C:\Projetos\Exyon\Exyon.Framework\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.deps.json
+C:\Projetos\Exyon\Exyon.Framework\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.json
+C:\Projetos\Exyon\Exyon.Framework\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.dev.json
+C:\Projetos\Exyon\Exyon.Framework\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.dll
+C:\Projetos\Exyon\Exyon.Framework\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.pdb
+C:\Projetos\Exyon\Exyon.Framework\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.Views.dll
+C:\Projetos\Exyon\Exyon.Framework\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.Views.pdb
+C:\Projetos\Exyon\Exyon.Framework\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.csprojAssemblyReference.cache
+C:\Projetos\Exyon\Exyon.Framework\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.csproj.CoreCompileInputs.cache
+C:\Projetos\Exyon\Exyon.Framework\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cache
+C:\Projetos\Exyon\Exyon.Framework\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cs
+C:\Projetos\Exyon\Exyon.Framework\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfoInputs.cache
+C:\Projetos\Exyon\Exyon.Framework\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfo.cs
+C:\Projetos\Exyon\Exyon.Framework\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.TagHelpers.input.cache
+C:\Projetos\Exyon\Exyon.Framework\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.TagHelpers.output.cache
+C:\Projetos\Exyon\Exyon.Framework\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorCoreGenerate.cache
+C:\Projetos\Exyon\Exyon.Framework\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Razor\Views\Home\Login.g.cshtml.cs
+C:\Projetos\Exyon\Exyon.Framework\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Razor\Views\Home\Register.g.cshtml.cs
+C:\Projetos\Exyon\Exyon.Framework\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorTargetAssemblyInfo.cache
+C:\Projetos\Exyon\Exyon.Framework\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorTargetAssemblyInfo.cs
+C:\Projetos\Exyon\Exyon.Framework\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.Views.pdb
+C:\Projetos\Exyon\Exyon.Framework\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.dll
+C:\Projetos\Exyon\Exyon.Framework\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.pdb
+C:\Projetos\Exyon\Exyon.Framework\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.csproj.CopyComplete
+C:\Projetos\Exyon\Grc.Framework\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.csproj.CoreCompileInputs.cache
+C:\Projetos\Exyon\Grc.Framework\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cache
+C:\Projetos\Exyon\Grc.Framework\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cs
+C:\Projetos\Exyon\Grc.Framework\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfoInputs.cache
+C:\Projetos\Exyon\Grc.Framework\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfo.cs
+C:\Projetos\Exyon\Grc.Framework\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.deps.json
+C:\Projetos\Exyon\Grc.Framework\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.json
+C:\Projetos\Exyon\Grc.Framework\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.dev.json
+C:\Projetos\Exyon\Grc.Framework\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.dll
+C:\Projetos\Exyon\Grc.Framework\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.pdb
+C:\Projetos\Exyon\Grc.Framework\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.Views.dll
+C:\Projetos\Exyon\Grc.Framework\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.Views.pdb
+C:\Projetos\Exyon\Grc.Framework\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.TagHelpers.input.cache
+C:\Projetos\Exyon\Grc.Framework\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.TagHelpers.output.cache
+C:\Projetos\Exyon\Grc.Framework\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorCoreGenerate.cache
+C:\Projetos\Exyon\Grc.Framework\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Razor\Views\Home\Login.g.cshtml.cs
+C:\Projetos\Exyon\Grc.Framework\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Razor\Views\Home\Register.g.cshtml.cs
+C:\Projetos\Exyon\Grc.Framework\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorTargetAssemblyInfo.cache
+C:\Projetos\Exyon\Grc.Framework\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorTargetAssemblyInfo.cs
+C:\Projetos\Exyon\Grc.Framework\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.Views.pdb
+C:\Projetos\Exyon\Grc.Framework\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.dll
+C:\Projetos\Exyon\Grc.Framework\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.pdb
+C:\Projetos\Exyon\Grc.Framework\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.csproj.CopyComplete
+C:\Projetos\Exyon\Grc.Framework\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.csprojAssemblyReference.cache
+C:\Projects\Grc.Framework\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.csprojAssemblyReference.cache
+C:\Projects\Grc.Framework\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.csproj.CoreCompileInputs.cache
+C:\Projects\Grc.Framework\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cache
+C:\Projects\Grc.Framework\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cs
+C:\Projects\Grc.Framework\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfoInputs.cache
+C:\Projects\Grc.Framework\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfo.cs
+C:\Projects\Grc.Framework\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.deps.json
+C:\Projects\Grc.Framework\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.json
+C:\Projects\Grc.Framework\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.dev.json
+C:\Projects\Grc.Framework\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.dll
+C:\Projects\Grc.Framework\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.pdb
+C:\Projects\Grc.Framework\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.Views.dll
+C:\Projects\Grc.Framework\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.Views.pdb
+C:\Projects\Grc.Framework\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.TagHelpers.input.cache
+C:\Projects\Grc.Framework\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.TagHelpers.output.cache
+C:\Projects\Grc.Framework\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorCoreGenerate.cache
+C:\Projects\Grc.Framework\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Razor\Views\Home\Login.g.cshtml.cs
+C:\Projects\Grc.Framework\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Razor\Views\Home\Register.g.cshtml.cs
+C:\Projects\Grc.Framework\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorTargetAssemblyInfo.cache
+C:\Projects\Grc.Framework\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorTargetAssemblyInfo.cs
+C:\Projects\Grc.Framework\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.Views.pdb
+C:\Projects\Grc.Framework\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.dll
+C:\Projects\Grc.Framework\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.pdb
+C:\Projects\Grc.Framework\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.csproj.CopyComplete
+C:\Projetos\Exyon\GestaoRisco\src\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.deps.json
+C:\Projetos\Exyon\GestaoRisco\src\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.json
+C:\Projetos\Exyon\GestaoRisco\src\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.dev.json
+C:\Projetos\Exyon\GestaoRisco\src\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.dll
+C:\Projetos\Exyon\GestaoRisco\src\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.pdb
+C:\Projetos\Exyon\GestaoRisco\src\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.Views.dll
+C:\Projetos\Exyon\GestaoRisco\src\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.Views.pdb
+C:\Projetos\Exyon\GestaoRisco\src\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.csprojAssemblyReference.cache
+C:\Projetos\Exyon\GestaoRisco\src\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.csproj.CoreCompileInputs.cache
+C:\Projetos\Exyon\GestaoRisco\src\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cache
+C:\Projetos\Exyon\GestaoRisco\src\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cs
+C:\Projetos\Exyon\GestaoRisco\src\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfoInputs.cache
+C:\Projetos\Exyon\GestaoRisco\src\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfo.cs
+C:\Projetos\Exyon\GestaoRisco\src\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.TagHelpers.input.cache
+C:\Projetos\Exyon\GestaoRisco\src\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.TagHelpers.output.cache
+C:\Projetos\Exyon\GestaoRisco\src\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorCoreGenerate.cache
+C:\Projetos\Exyon\GestaoRisco\src\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Razor\Views\Home\Login.g.cshtml.cs
+C:\Projetos\Exyon\GestaoRisco\src\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Razor\Views\Home\Register.g.cshtml.cs
+C:\Projetos\Exyon\GestaoRisco\src\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorTargetAssemblyInfo.cache
+C:\Projetos\Exyon\GestaoRisco\src\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorTargetAssemblyInfo.cs
+C:\Projetos\Exyon\GestaoRisco\src\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.Views.pdb
+C:\Projetos\Exyon\GestaoRisco\src\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.dll
+C:\Projetos\Exyon\GestaoRisco\src\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.pdb
+C:\Projetos\Exyon\GestaoRisco\src\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.csproj.CopyComplete
+C:\Projects\GRC\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.csprojAssemblyReference.cache
+C:\Projects\GRC\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.csproj.CoreCompileInputs.cache
+C:\Projects\GRC\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cache
+C:\Projects\GRC\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cs
+C:\Projects\GRC\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfoInputs.cache
+C:\Projects\GRC\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfo.cs
+C:\Projects\GRC\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.dll
+C:\Projects\GRC\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.pdb
+C:\Projects\GRC\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.deps.json
+C:\Projects\GRC\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.json
+C:\Projects\GRC\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.dev.json
+C:\Projects\GRC\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.dll
+C:\Projects\GRC\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.pdb
+C:\Projects\GRC\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.Views.dll
+C:\Projects\GRC\Exyon.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.Views.pdb
+C:\Projects\GRC\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.TagHelpers.input.cache
+C:\Projects\GRC\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.TagHelpers.output.cache
+C:\Projects\GRC\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorCoreGenerate.cache
+C:\Projects\GRC\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Razor\Views\Home\Login.g.cshtml.cs
+C:\Projects\GRC\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Razor\Views\Home\Register.g.cshtml.cs
+C:\Projects\GRC\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorTargetAssemblyInfo.cache
+C:\Projects\GRC\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorTargetAssemblyInfo.cs
+C:\Projects\GRC\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.Views.pdb
+C:\Projects\GRC\Exyon.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.csproj.CopyComplete
+C:\Projetos\Capcha\Capcha.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.deps.json
+C:\Projetos\Capcha\Capcha.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.json
+C:\Projetos\Capcha\Capcha.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.dev.json
+C:\Projetos\Capcha\Capcha.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.dll
+C:\Projetos\Capcha\Capcha.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.pdb
+C:\Projetos\Capcha\Capcha.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.Views.dll
+C:\Projetos\Capcha\Capcha.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.Views.pdb
+C:\Projetos\Capcha\Capcha.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.csprojAssemblyReference.cache
+C:\Projetos\Capcha\Capcha.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.csproj.CoreCompileInputs.cache
+C:\Projetos\Capcha\Capcha.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cache
+C:\Projetos\Capcha\Capcha.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cs
+C:\Projetos\Capcha\Capcha.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfoInputs.cache
+C:\Projetos\Capcha\Capcha.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfo.cs
+C:\Projetos\Capcha\Capcha.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.TagHelpers.input.cache
+C:\Projetos\Capcha\Capcha.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.TagHelpers.output.cache
+C:\Projetos\Capcha\Capcha.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorCoreGenerate.cache
+C:\Projetos\Capcha\Capcha.Api\Api\Api\obj\Debug\netcoreapp2.1\Razor\Views\Home\Login.g.cshtml.cs
+C:\Projetos\Capcha\Capcha.Api\Api\Api\obj\Debug\netcoreapp2.1\Razor\Views\Home\Register.g.cshtml.cs
+C:\Projetos\Capcha\Capcha.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorTargetAssemblyInfo.cache
+C:\Projetos\Capcha\Capcha.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorTargetAssemblyInfo.cs
+C:\Projetos\Capcha\Capcha.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.Views.pdb
+C:\Projetos\Capcha\Capcha.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.dll
+C:\Projetos\Capcha\Capcha.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.pdb
+C:\Projetos\Capcha\Capcha.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.csproj.CopyComplete
+C:\Projects\Capcha\Capcha.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.deps.json
+C:\Projects\Capcha\Capcha.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.json
+C:\Projects\Capcha\Capcha.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.dev.json
+C:\Projects\Capcha\Capcha.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.dll
+C:\Projects\Capcha\Capcha.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.pdb
+C:\Projects\Capcha\Capcha.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.Views.dll
+C:\Projects\Capcha\Capcha.Api\Api\Api\bin\Debug\netcoreapp2.1\Api.Views.pdb
+C:\Projects\Capcha\Capcha.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.csprojAssemblyReference.cache
+C:\Projects\Capcha\Capcha.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.csproj.CoreCompileInputs.cache
+C:\Projects\Capcha\Capcha.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cache
+C:\Projects\Capcha\Capcha.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cs
+C:\Projects\Capcha\Capcha.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfoInputs.cache
+C:\Projects\Capcha\Capcha.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfo.cs
+C:\Projects\Capcha\Capcha.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.TagHelpers.input.cache
+C:\Projects\Capcha\Capcha.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.TagHelpers.output.cache
+C:\Projects\Capcha\Capcha.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorCoreGenerate.cache
+C:\Projects\Capcha\Capcha.Api\Api\Api\obj\Debug\netcoreapp2.1\Razor\Views\Home\Login.g.cshtml.cs
+C:\Projects\Capcha\Capcha.Api\Api\Api\obj\Debug\netcoreapp2.1\Razor\Views\Home\Register.g.cshtml.cs
+C:\Projects\Capcha\Capcha.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorTargetAssemblyInfo.cache
+C:\Projects\Capcha\Capcha.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorTargetAssemblyInfo.cs
+C:\Projects\Capcha\Capcha.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.Views.pdb
+C:\Projects\Capcha\Capcha.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.dll
+C:\Projects\Capcha\Capcha.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.pdb
+C:\Projects\Capcha\Capcha.Api\Api\Api\obj\Debug\netcoreapp2.1\Api.csproj.CopyComplete
+C:\Projects\Turma Exyon\Api\Api\obj\Debug\netcoreapp2.1\Api.csproj.CoreCompileInputs.cache
+C:\Projects\Turma Exyon\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cache
+C:\Projects\Turma Exyon\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cs
+C:\Projects\Turma Exyon\Api\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfoInputs.cache
+C:\Projects\Turma Exyon\Api\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfo.cs
+C:\Projects\Turma Exyon\Api\Api\bin\Debug\netcoreapp2.1\Api.deps.json
+C:\Projects\Turma Exyon\Api\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.json
+C:\Projects\Turma Exyon\Api\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.dev.json
+C:\Projects\Turma Exyon\Api\Api\bin\Debug\netcoreapp2.1\Api.dll
+C:\Projects\Turma Exyon\Api\Api\bin\Debug\netcoreapp2.1\Api.pdb
+C:\Projects\Turma Exyon\Api\Api\bin\Debug\netcoreapp2.1\Api.Views.dll
+C:\Projects\Turma Exyon\Api\Api\bin\Debug\netcoreapp2.1\Api.Views.pdb
+C:\Projects\Turma Exyon\Api\Api\obj\Debug\netcoreapp2.1\Api.TagHelpers.input.cache
+C:\Projects\Turma Exyon\Api\Api\obj\Debug\netcoreapp2.1\Api.TagHelpers.output.cache
+C:\Projects\Turma Exyon\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorCoreGenerate.cache
+C:\Projects\Turma Exyon\Api\Api\obj\Debug\netcoreapp2.1\Razor\Views\Home\Login.g.cshtml.cs
+C:\Projects\Turma Exyon\Api\Api\obj\Debug\netcoreapp2.1\Razor\Views\Home\Register.g.cshtml.cs
+C:\Projects\Turma Exyon\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorTargetAssemblyInfo.cache
+C:\Projects\Turma Exyon\Api\Api\obj\Debug\netcoreapp2.1\Api.RazorTargetAssemblyInfo.cs
+C:\Projects\Turma Exyon\Api\Api\obj\Debug\netcoreapp2.1\Api.Views.pdb
+C:\Projects\Turma Exyon\Api\Api\obj\Debug\netcoreapp2.1\Api.dll
+C:\Projects\Turma Exyon\Api\Api\obj\Debug\netcoreapp2.1\Api.pdb
+C:\Projects\Turma Exyon\Api\Api\obj\Debug\netcoreapp2.1\Api.csproj.CopyComplete
+C:\Projects\Turma Exyon\Exyon.Api\Api\bin\Debug\netcoreapp2.1\Api.deps.json
+C:\Projects\Turma Exyon\Exyon.Api\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.json
+C:\Projects\Turma Exyon\Exyon.Api\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.dev.json
+C:\Projects\Turma Exyon\Exyon.Api\Api\bin\Debug\netcoreapp2.1\Api.dll
+C:\Projects\Turma Exyon\Exyon.Api\Api\bin\Debug\netcoreapp2.1\Api.pdb
+C:\Projects\Turma Exyon\Exyon.Api\Api\bin\Debug\netcoreapp2.1\Api.Views.dll
+C:\Projects\Turma Exyon\Exyon.Api\Api\bin\Debug\netcoreapp2.1\Api.Views.pdb
+C:\Projects\Turma Exyon\Exyon.Api\Api\obj\Debug\netcoreapp2.1\Api.csprojAssemblyReference.cache
+C:\Projects\Turma Exyon\Exyon.Api\Api\obj\Debug\netcoreapp2.1\Api.csproj.CoreCompileInputs.cache
+C:\Projects\Turma Exyon\Exyon.Api\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cache
+C:\Projects\Turma Exyon\Exyon.Api\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cs
+C:\Projects\Turma Exyon\Exyon.Api\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfoInputs.cache
+C:\Projects\Turma Exyon\Exyon.Api\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfo.cs
+C:\Projects\Turma Exyon\Exyon.Api\Api\obj\Debug\netcoreapp2.1\Api.TagHelpers.input.cache
+C:\Projects\Turma Exyon\Exyon.Api\Api\obj\Debug\netcoreapp2.1\Api.TagHelpers.output.cache
+C:\Projects\Turma Exyon\Exyon.Api\Api\obj\Debug\netcoreapp2.1\Api.RazorCoreGenerate.cache
+C:\Projects\Turma Exyon\Exyon.Api\Api\obj\Debug\netcoreapp2.1\Razor\Views\Home\Login.g.cshtml.cs
+C:\Projects\Turma Exyon\Exyon.Api\Api\obj\Debug\netcoreapp2.1\Razor\Views\Home\Register.g.cshtml.cs
+C:\Projects\Turma Exyon\Exyon.Api\Api\obj\Debug\netcoreapp2.1\Api.RazorTargetAssemblyInfo.cache
+C:\Projects\Turma Exyon\Exyon.Api\Api\obj\Debug\netcoreapp2.1\Api.RazorTargetAssemblyInfo.cs
+C:\Projects\Turma Exyon\Exyon.Api\Api\obj\Debug\netcoreapp2.1\Api.Views.pdb
+C:\Projects\Turma Exyon\Exyon.Api\Api\obj\Debug\netcoreapp2.1\Api.dll
+C:\Projects\Turma Exyon\Exyon.Api\Api\obj\Debug\netcoreapp2.1\Api.pdb
+C:\Projects\Turma Exyon\Exyon.Api\Api\obj\Debug\netcoreapp2.1\Api.csproj.CopyComplete

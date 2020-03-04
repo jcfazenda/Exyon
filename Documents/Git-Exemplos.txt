@@ -1,0 +1,59 @@
+﻿	
+	# GIT
+	
+		git status 												[Saber o status do projeto é importante. Com o comando abaixo você consegue ver quais arquivos estão fora do controle, quais foram modificados e estão esperando por uma descrição de modificação etc]
+     	git add .											    [Se você precisa adicionar todos os arquivos do diretório]
+		git add nome-do-arquivo-incluindo-extensão              [Feito isso, seus arquivos ainda não estão sendo versionados, mas eles estão esperando para serem adicionados no estágio de controle. Para fazer isso digite o comando]	
+		
+    	git commit -m "Mensagem do commit"						[Commit – Comitando:]
+	    git push origin nome-do-branch							[Enviando meu branch para o repositório (master)]
+	    git checkout master                 					[Voltando para o branch master]
+    	git pull												[Sincronizando tudo que está no repositório remoto]
+	    git status  
+		
+		-----
+		git merge master -m "merge master"						[Chek seu branch e mergeie com o master] 
+	    git checkout -b nome-do-branch    						[Criando um branch – uma ramificação] 
+        git init												[Entre no diretório que deseja controlar a versão e inicie o Git assim]
+		git add nome-do-arquivo-incluindo-extensão              [Feito isso, seus arquivos ainda não estão sendo versionados, mas eles estão esperando para serem adicionados no estágio de controle. Para fazer isso digite o comando]		
+		git reset HEAD nome-do-arquivo 							[Voltando ao estágio anterior do adicionamento]		
+		git status 												[Saber o status do projeto é importante. Com o comando abaixo você consegue ver quais arquivos estão fora do controle, quais foram modificados e estão esperando por uma descrição de modificação etc]	    
+		git branch 												[Verificando em que branch você está] 
+		git log 												[historico de commit]
+		git log -p 												[Verificando o que foi mudado, diferença entre um arquivo e outro]
+		git log -p -2 											[Verificando os 2 últimos commits]
+		git log --stat 											[Mostrando as estatísticas de todos os commits]
+		git log --pretty=oneline 								[Mostrando todos os commits, cada um em uma linha]
+		git log --since=2.days									[Mostrando todos os commits dos últimos 2 dias até o momento atual] 
+		git merge  nome-do-branch-que-foi-criado				[Entre como branch master] - Jogando o branch criado no branch master
+		git rebase nome-do-branch-que-foi-criado				[Grudando o branch criado no branch master sem o commit] - Somente localmente – localhost, entre como branch master:
+		git branch -D nome-do-branch							[Removendo um branch]
+		git branch -a											[Vendo branchs remotos]
+		git log --pretty=format: "%h - %an, %ar : %s"			[Mostrando o início do hash, quem comitou, quanto tempo atrás, mensagem: descrição do commit] 
+		git rm nome-do-arquivo									[Deletando arquivos]
+		git ls-files --deleted | xargs git rm					[Deletando todos os aquivos removidos ao mesmo tempo] 
+		git clone url-do-projeto								[Clonando um projeto remoto]
+		git checkout -b nome-do-branch origin/ nome-do-branch	[Fazendo um clone de outros branchs]
+		git pull origin master									[Trazendo, puxando as alterações feitas por outros usuários] 
+		git push origin master									[Enviando o(s) projeto(s), arquivo(s) para o repositório] 
+		git config --global -e          						[Configurações globais do usuario]
+		git config --list										[]
+		git branch -a --contains								[visualiza qual container está o projeto e arquivos alterados]
+		
+		git config – global user.name "Julio Fazenda"
+		git config – global user.email "jcfazenda@hotmail.com"
+		
+		Tags
+		As tags servem para marcar uma etapa. Imagine que você vai lançar uma versão, que resolve uma série de problemas. Você pode marcar aquela etapa criando uma tag. Assim fica simples de fazer qualquer rollback do projeto para uma tag específica em vez de voltar para um commit. Você sabe que tudo o que foi feito até aquela tag está funcionando
+
+		git tag versão-da-tag 									[Criando tags]
+		git tag -l												[Listando tags]
+		git push origin master --tags							[Enviando a tag para o repositório]
+		git tag -d versão-da-tag								[Removendo as tags criadas localmente]
+		git push origin :refs/tags/versão-da-tag				[Removendo tag no repositório remoto] 
+		git push -u origin --all 
+		
+	# GIT CONFIG
+		git config --global --unset https.proxy
+		git config --global --unset http.proxy  
+		
