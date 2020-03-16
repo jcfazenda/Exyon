@@ -10,16 +10,12 @@
     {
         public static void RegisterServices(IServiceCollection services)
         {          
-            services.AddSingleton<IRequestManager, InMemoryRequestManager>(); /* Circular Queue */
+            services.AddSingleton<IRequestManager, InMemoryRequestManager>();
             Mapper.Initialize(x => x.ConfigureApplicationProfiles());
             services.AddScoped<IMapper>(sp => new Mapper(sp.GetRequiredService<IConfigurationProvider>(), sp.GetService));
-            
-            // UserNativeInjection.RegisterServices(services);
 
-            services.AddScoped<BancoDadosContext>(); /* usuarios */
-
-            /* TABLES */
-            services.AddScoped<IUsersRepository, UsersRepository>();
+            services.AddScoped<BancoDadosContext>();           
+            services.AddScoped<IUsersRepository, UsersRepository>();  /* TABLES */
 
             RegisterGenericsEventsDomain(services);
         }

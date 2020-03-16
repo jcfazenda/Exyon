@@ -9,14 +9,14 @@ export const navigation: FuseNavigation[] = [
         icon     : 'apps',
         children : [
             {
-                id       : 'cadastro',
-                title    : 'Cadastro', 
+                id       : 'Usuarios',
+                title    : 'Usuarios', 
                 type     : 'collapsable',
                 icon     : 'fingerprint',
                 children : [
                     {
                         id       : 'usuarios',
-                        title    : 'Minha Equipe', 
+                        title    : 'Cadastro', 
                         type     : 'item',
                         url      : '/apps/equipe/usuarios'
                     },

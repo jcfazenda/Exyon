@@ -441,3 +441,27 @@ C:\Projects\Turma Exyon\Exyon.Api\Api\obj\Debug\netcoreapp2.1\Api.Views.pdb
 C:\Projects\Turma Exyon\Exyon.Api\Api\obj\Debug\netcoreapp2.1\Api.dll
 C:\Projects\Turma Exyon\Exyon.Api\Api\obj\Debug\netcoreapp2.1\Api.pdb
 C:\Projects\Turma Exyon\Exyon.Api\Api\obj\Debug\netcoreapp2.1\Api.csproj.CopyComplete
+C:\Projects\Exyon\Exyon.Api\Api\bin\Debug\netcoreapp2.1\Api.deps.json
+C:\Projects\Exyon\Exyon.Api\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.json
+C:\Projects\Exyon\Exyon.Api\Api\bin\Debug\netcoreapp2.1\Api.runtimeconfig.dev.json
+C:\Projects\Exyon\Exyon.Api\Api\bin\Debug\netcoreapp2.1\Api.dll
+C:\Projects\Exyon\Exyon.Api\Api\bin\Debug\netcoreapp2.1\Api.pdb
+C:\Projects\Exyon\Exyon.Api\Api\bin\Debug\netcoreapp2.1\Api.Views.dll
+C:\Projects\Exyon\Exyon.Api\Api\bin\Debug\netcoreapp2.1\Api.Views.pdb
+C:\Projects\Exyon\Exyon.Api\Api\obj\Debug\netcoreapp2.1\Api.csprojAssemblyReference.cache
+C:\Projects\Exyon\Exyon.Api\Api\obj\Debug\netcoreapp2.1\Api.csproj.CoreCompileInputs.cache
+C:\Projects\Exyon\Exyon.Api\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cache
+C:\Projects\Exyon\Exyon.Api\Api\obj\Debug\netcoreapp2.1\Api.RazorAssemblyInfo.cs
+C:\Projects\Exyon\Exyon.Api\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfoInputs.cache
+C:\Projects\Exyon\Exyon.Api\Api\obj\Debug\netcoreapp2.1\Api.AssemblyInfo.cs
+C:\Projects\Exyon\Exyon.Api\Api\obj\Debug\netcoreapp2.1\Api.TagHelpers.input.cache
+C:\Projects\Exyon\Exyon.Api\Api\obj\Debug\netcoreapp2.1\Api.TagHelpers.output.cache
+C:\Projects\Exyon\Exyon.Api\Api\obj\Debug\netcoreapp2.1\Api.RazorCoreGenerate.cache
+C:\Projects\Exyon\Exyon.Api\Api\obj\Debug\netcoreapp2.1\Razor\Views\Home\Login.g.cshtml.cs
+C:\Projects\Exyon\Exyon.Api\Api\obj\Debug\netcoreapp2.1\Razor\Views\Home\Register.g.cshtml.cs
+C:\Projects\Exyon\Exyon.Api\Api\obj\Debug\netcoreapp2.1\Api.RazorTargetAssemblyInfo.cache
+C:\Projects\Exyon\Exyon.Api\Api\obj\Debug\netcoreapp2.1\Api.RazorTargetAssemblyInfo.cs
+C:\Projects\Exyon\Exyon.Api\Api\obj\Debug\netcoreapp2.1\Api.Views.pdb
+C:\Projects\Exyon\Exyon.Api\Api\obj\Debug\netcoreapp2.1\Api.dll
+C:\Projects\Exyon\Exyon.Api\Api\obj\Debug\netcoreapp2.1\Api.pdb
+C:\Projects\Exyon\Exyon.Api\Api\obj\Debug\netcoreapp2.1\Api.csproj.CopyComplete

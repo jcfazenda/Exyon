@@ -7,10 +7,7 @@ namespace Api.Domain.Configuration.AutoMapper
     public class DomainToViewModelProfile : Profile
     {
         public DomainToViewModelProfile()
-        {
-  
-            #region Usuarios
-
+        {  
             CreateMap<Usuarios, UsersOutput>()
                 .ForMember(f => f.IdUsuario,                t => t.MapFrom(m => m.IdUsuario))
                 .ForMember(f => f.Nome,                     t => t.MapFrom(m => m.Nome))
@@ -23,11 +20,7 @@ namespace Api.Domain.Configuration.AutoMapper
                 .ForMember(f => f.Ativo,                    t => t.MapFrom(m => m.Ativo))
                 .ForMember(f => f.Telefone,                 t => t.MapFrom(m => m.Telefone))
                 .ForMember(f => f.IdUsuarioAdministrador,   t => t.MapFrom(m => m.IdUsuarioAdministrador))
-                .ForMember(f => f.IdTipo,                   t => t.MapFrom(m => m.IdTipo))
-                ;
-
-            #endregion
-
+                .ForMember(f => f.IdTipo,                   t => t.MapFrom(m => m.IdTipo));
         }
     }
 } 

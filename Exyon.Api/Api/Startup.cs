@@ -14,7 +14,6 @@ namespace Api
 {
     public class Startup
     {
-
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
@@ -88,7 +87,5 @@ namespace Api
             services.AddSingleton(typeof(CacheSegments));
             NativeInjector.RegisterServices(services);
         }
-
     }
-
 }
