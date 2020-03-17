@@ -51,7 +51,6 @@ namespace Api.Controllers.Users
             return Response(true, "sucess", result);
         }
  
-
         protected new IActionResult Response(bool Success, string Messsage, object result = null)
         {
             return Ok(new

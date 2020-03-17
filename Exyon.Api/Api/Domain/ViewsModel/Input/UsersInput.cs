@@ -15,11 +15,8 @@
         public string Avatar { get; set; }
         public string Canvas { get; set; }
         public bool? Ativo { get; set; }
-
-
         public long? IdEmpresa { get; set; }
         public long? IdCentroCusto { get; set; }
-
     }
     
 }

@@ -7,10 +7,7 @@ namespace Api
 {
     public partial class BancoDadosContext : DbContext
     {
-        public BancoDadosContext()
-        {
-
-        }
+        public BancoDadosContext(){}
 
         public BancoDadosContext(DbContextOptions options) : base(options)
         {
@@ -19,12 +16,9 @@ namespace Api
         public DbSet<Usuarios> Users { get; set; } 
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
-        {
-            /* usuarios */
-            modelBuilder.ApplyConfiguration(new UsuariosMap());
-
+        {           
+            modelBuilder.ApplyConfiguration(new UsuariosMap()); /* usuarios */
             base.OnModelCreating(modelBuilder);
         }
-
     }
 } 
